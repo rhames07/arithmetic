@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.rhames07</groupId>
+    <groupId>io.github.rhames07</groupId>
     <artifactId>arithmetic</artifactId>
     <version>1.0.0</version>
     <build>
@@ -117,7 +117,7 @@
         <developer>
             <name>Rhames Lima</name>
             <email>rhameslf@gmail.com</email>
-            <organization>com.github.rhames07</organization>
+            <organization>io.github.rhames07</organization>
             <organizationUrl>http://github.com/rhames07/</organizationUrl>
         </developer>
     </developers>
