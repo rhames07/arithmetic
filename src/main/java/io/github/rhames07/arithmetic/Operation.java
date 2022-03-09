@@ -1,8 +1,11 @@
-package com.github.rhames07.arithmetic;
+package io.github.rhames07.arithmetic;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
+/**
+ * Operation class.
+ */
 public class Operation {
   public static BigDecimal add(BigDecimal x, BigDecimal y) {
     return x.add(y);
