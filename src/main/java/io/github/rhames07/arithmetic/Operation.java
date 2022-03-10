@@ -22,4 +22,8 @@ public class Operation {
   public static BigDecimal divide(BigDecimal x, BigDecimal y) {
     return x.divide(y, RoundingMode.UNNECESSARY);
   }
+
+  public static BigDecimal squaring(BigDecimal x) {
+    return x.multiply(x);
+  }
 }
